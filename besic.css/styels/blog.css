@@ -1,0 +1,23 @@
+.header{
+    height: 400px;
+}
+.mango{
+    font-size: large;
+}
+h3{
+    color: chocolate;
+    text-decoration:underline;
+    }
+p{
+    color: blue;
+    background-color: rgba(165, 42, 42, 0.13);
+    
+}
+ol{
+    font-size: larger;
+    color: aqua;
+    background-color: blueviolet;
+}
+a{
+ text-decoration: none;
+}

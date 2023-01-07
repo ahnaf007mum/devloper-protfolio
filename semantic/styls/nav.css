@@ -1,0 +1,18 @@
+nav > ul{
+    display: flex;
+    color: black;
+    
+}
+nav li {
+    list-style: none;
+    margin-right: auto;
+    
+}
+nav .dropdown{
+    display: none;
+    background-color: burlywood;
+    color: black;
+}
+nav li:hover .dropdown{
+display: block;
+}
