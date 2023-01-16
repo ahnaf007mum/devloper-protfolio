@@ -1,0 +1,122 @@
+/* ----upper function-------- */
+.products h3{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+    position: absolute;
+    left: 8.33%;
+    right: 74.79%;
+    top: 2.63%;
+    bottom: 95.79%;
+}
+.header{
+    display: flex;
+    position: absolute;
+    width: 463px;
+    height: 36px;
+    left: 857px;
+    top: 95px;
+    justify-content: space-between;
+}
+.journey h1{
+    position: absolute;
+    width: 582px;
+    height: 133px;
+    left: 113px;
+    top: 252px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 52px;
+    line-height: 70px;
+
+}
+.journey, #lorem{
+   width: 505px;
+   height: 60.9px;
+   top: 401px;
+   left: 113px;
+   font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+
+}
+
+
+.camra, .back-circle, .img{
+    position: absolute;
+width: 440px;
+height: 431px;
+left: 835px;
+top: 194px;
+}
+.web-sites{
+    justify-content: space-between;
+    display: flex;
+    position: absolute;
+    width: 1110px;
+    height: 110px;
+    left: 165px;
+     top: 725px;
+     
+}
+
+}
+/* middle */
+
+.middle{
+    background: #aaaa;
+}
+
+.mid{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    position: absolute;
+width: 1047px;
+height: 1662px;
+left: 196px;
+top: 935px;
+grid-column-gap: 26px;
+}
+ #word{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 143%;
+color: #787885;
+display: flex;
+align-items: center;
+}
+/* bottom */
+.bottom{
+    position: absolute;
+width: 1110px;
+height: 270px;
+left: 165px;
+top: 2697px;
+display: grid;
+grid-row-gap: 20px;
+
+}
+.blogs{
+   display: flex;
+}
+/* low */
+.low{
+    position: absolute;
+width: 1440px;
+height: 239px;
+left: 0px;
+top: 3067px;
+
+background: #0A0826;
+
+}
+.lower{
+    color: white;
+    
+text-align: center;
+
+}
